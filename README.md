@@ -1,2 +1,2 @@
 # CS7NS1-Scalable-Computing-Project-Repo
-This repository contains code, model and output files used for TCD CS7NS1 Course Project Assignment Work
+This repository contains code and output files used for TCD CS7NS1 Course Project1, Project 2 and Project3 Assignment Work
